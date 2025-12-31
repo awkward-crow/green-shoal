@@ -13,15 +13,11 @@
 
 ## construction, retrofit, timber etc
 
-### [Built by nature](https://builtbn.org/)
+[Built by nature](https://builtbn.org/) Work in harmony with nature  
 
-Work in harmony with nature  
+[Open sytems lab](https://www.opensystemslab.io/) We are a non-profit R&D lab working on new operating systems for society.
 
-### [Open sytems lab](https://www.opensystemslab.io/)
-
-We are a non-profit R&D lab working on new operating systems for society.
-
-See also, https://www.planx.uk/  https://opendigitalplanning.org/ and [github](https://github.com/theopensystemslab).
+See also, https://www.planx.uk/  https://opendigitalplanning.org/ and [github](https://github.com/theopensystemslab).  
 
 [nationalretrofithub](https://nationalretrofithub.org.uk/)  
 
