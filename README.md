@@ -23,9 +23,9 @@ See also, https://www.planx.uk/  https://opendigitalplanning.org/ and [github](h
 
 [Timber Development UK](https://timberdevelopment.uk/)  
 
-(https://www.wikihouse.cc/)  
+[wikihouse](https://www.wikihouse.cc/)  
 
-(https://www.openbuildinginstitute.org/)  
+[openbuildinginstitute](https://www.openbuildinginstitute.org/)  
 
 ## glass
 
