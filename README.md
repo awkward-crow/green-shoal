@@ -23,6 +23,10 @@ See also, https://www.planx.uk/  https://opendigitalplanning.org/ and [github](h
 
 [Timber Development UK](https://timberdevelopment.uk/)  
 
+(https://www.wikihouse.cc/)  
+
+(https://www.openbuildinginstitute.org/)  
+
 ## glass
 
 [responsibleglass](https://responsibleglass.org/)  
