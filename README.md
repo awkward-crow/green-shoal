@@ -11,22 +11,6 @@
 [octopus energy](https://octopus.energy/)  
 
 
-## construction, retrofit, timber etc
-
-[Built by nature](https://builtbn.org/) Work in harmony with nature  
-
-[Open sytems lab](https://www.opensystemslab.io/) We are a non-profit R&D lab working on new operating systems for society.
-
-See also, https://www.planx.uk/  https://opendigitalplanning.org/ and [github](https://github.com/theopensystemslab).  
-
-[nationalretrofithub](https://nationalretrofithub.org.uk/)  
-
-[Timber Development UK](https://timberdevelopment.uk/)  
-
-[wikihouse](https://www.wikihouse.cc/)  
-
-[openbuildinginstitute](https://www.openbuildinginstitute.org/)  
-
 ## glass
 
 [responsibleglass](https://responsibleglass.org/)  
@@ -36,6 +20,10 @@ See also, https://www.planx.uk/  https://opendigitalplanning.org/ and [github](h
 [RethinkX](https://www.rethinkx.com/)  
 
 [earth rover program](https://www.earthroverprogram.org/)  
+
+[Open sytems lab](https://www.opensystemslab.io/) We are a non-profit R&D lab working on new operating systems for society.
+
+See also, https://www.planx.uk/  https://opendigitalplanning.org/ and [github](https://github.com/theopensystemslab).  
 
 
 
